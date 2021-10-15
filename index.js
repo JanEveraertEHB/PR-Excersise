@@ -5,6 +5,7 @@ const io = require('socket.io')(socket);
 
 const messages = [];
 
+
 io.on('connection', client => {
   client.on('event', data => { 
     messages.push(data);
