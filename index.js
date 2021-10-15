@@ -12,8 +12,6 @@ io.on('connection', client => {
    });
   client.on('disconnect', () => { /* … */ });
 });
-server.listen(3001);
-
 server.get("/list", (req, res) => {
   res.send(messages);
 })
