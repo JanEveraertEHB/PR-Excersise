@@ -13,7 +13,7 @@ Deze opdracht werken jullie uit per 4. Iedereen doet 1 van de volgende opdrachte
 ## Let op volgende zaken
 
 * iedereen werkt op een eigen branch
-* Branches moeten up to date zijn (met de master branch) voor een merge
+* Branches moeten up to date zijn (met de main branch) voor een merge
 * Alle code moet volgens conventie zijn
 * Pull requests worden gereviewed door iedereen in het team
 * Pull requests worden pas gemerged op het moment dat iedereen de request heeft gereviewed
