@@ -7,6 +7,7 @@ const messages = [];
 
 io.on('connection', client => {
   client.on('event', data => { 
+    messages.push(data);
 
    });
   client.on('disconnect', () => { /* … */ });
