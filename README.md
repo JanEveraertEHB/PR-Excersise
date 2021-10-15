@@ -8,7 +8,8 @@ Deze opdracht werken jullie uit per 4. Iedereen doet 1 van de volgende opdrachte
 * Zorg voor een socket setup (socket.io)
 * Zorg ervoor dat messages gestuurd kunnen worden naar de socket
 * De api endpoint geeft een lijst terug van alle verstuurde messages
-* De readme behoort de endpoints en acties mogelijk te beschrijven
+
+De readme behoort de endpoints en acties mogelijk te beschrijven, ieder doet dit voor het deel dat je programmeerde
 
 ## Let op volgende zaken
 
