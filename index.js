@@ -13,6 +13,9 @@ io.on('connection', client => {
 });
 server.listen(3001);
 
+server.get("/list", (req, res) => {
+  res.send(messages);
+})
 
 server.listen(3000, () => {
   console.log("server listening at 3000")
